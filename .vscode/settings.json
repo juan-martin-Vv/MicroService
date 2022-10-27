@@ -1,0 +1,10 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "maven.terminal.favorites": [
+        {
+            "alias": "nuevo modulo",
+            "command": "archetype:generate "
+        }
+    ]
+
+}

@@ -10,6 +10,7 @@ public class eurekaServer
 {
     public static void main( String[] args )
     {
+        // server dicovery on
         SpringApplication.run(eurekaServer.class, args);
     }
 }

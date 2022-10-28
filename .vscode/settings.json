@@ -3,10 +3,11 @@
     "maven.terminal.favorites": [
         {
             "alias": "nuevo modulo",
-            "command": "archetype:generate "
+            "command": "archetype:generate -DgroupId='com.jmvv'"
         }
     ],
-    "java.dependency.packagePresentation": "hierarchical",
-    "java.dependency.syncWithFolderExplorer": false
+    "java.dependency.packagePresentation": "flat",
+    "java.dependency.syncWithFolderExplorer": false,
+    "maven.view": "hierarchical"
 
 }

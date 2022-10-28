@@ -5,6 +5,8 @@
             "alias": "nuevo modulo",
             "command": "archetype:generate "
         }
-    ]
+    ],
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.dependency.syncWithFolderExplorer": false
 
 }
